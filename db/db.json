@@ -1,0 +1,95 @@
+{
+  "opcionais": [
+    {
+      "id": 1,
+      "tipo": "haiberg"
+    },
+    {
+      "id": 2,
+      "tipo": "Banco de couro"
+    },
+    {
+      "id": 3,
+      "tipo": "Ar-condicionado"
+    },
+    {
+      "id": 4,
+      "tipo": "frio Abs"
+    },
+    {
+      "id": 5,
+      "tipo": "Direção Hidraulica"
+    }
+  ],
+  "cambio": [
+    {
+      "id": 1,
+      "tipo": "Automatico"
+    },
+    {
+      "id": 2,
+      "tipo": "Manual"
+    }
+  ],
+  "TemSeguro": [
+    {
+      "id": 1,
+      "tipo": "sim"
+    },
+    {
+      "id": 2,
+      "tipo": "não"
+    }
+  ],
+  "Email": [
+    {
+      "email": "uesleirome@gmail.com",
+      "msg": "",
+      "id": 1
+    },
+    {
+      "email": "raimunda@gmail.com",
+      "mgs": "",
+      "mensagem": "",
+      "id": 2
+    },
+    {
+      "email": "cauaromeu@gmail.com",
+      "mgs": "",
+      "mensagem": "",
+      "id": 3
+    },
+    {
+      "email": "raimunda@gmail.com",
+      "mgs": "",
+      "mensagem": "",
+      "id": 4
+    },
+    {
+      "email": "raimunda@gmail.com",
+      "mgs": "",
+      "mensagem": "",
+      "id": 5
+    }
+  ],
+  "DateSegurado": [
+    {
+      "nome": "raimunda romeu",
+      "email": "raimunda@gmail.com",
+      "cel": "62985872878",
+      "modelo": "tinta",
+      "marca": "honda",
+      "ano": "2012",
+      "dataNasc": "1980-09-16",
+      "opcionais": [
+        "frio Abs",
+        "Banco de couro"
+      ],
+      "cambio": [
+        "Manual"
+      ],
+      "temseguro": "sim",
+      "id": 2
+    }
+  ]
+}
